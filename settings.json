@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "redacted_naxui",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "linuin_.aternos.me",
     "port": 64443,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
