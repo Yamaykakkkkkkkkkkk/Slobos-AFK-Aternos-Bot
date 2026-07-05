@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "linuin_.aternos.me",
-    "port": 27586,
+    "ip": "caracha.aternos.host",
+    "port": 64443,
     "version": "",
     "try-creative": false
   },
